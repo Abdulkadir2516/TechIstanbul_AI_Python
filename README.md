@@ -3,7 +3,7 @@
 ---
 
 ## Github Link
-[GitHub]( https://github.com/hamitmizrak/TechIstanbul_AI_Python.git)
+[GitHub](https://github.com/hamitmizrak/TechIstanbul_AI_Python.git)
 
 
 ### Requirements.txt yükle
